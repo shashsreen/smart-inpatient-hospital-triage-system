@@ -1,0 +1,26 @@
+DoctorID,DoctorName,Specialization,ExperienceYears,CurrentPatients,MaximumPatients,Availability
+D001,"Dr. Rajiv Sharma",Cardiologist,18,11,30,Available
+D002,"Dr. Meena Pillai",Pulmonologist,12,5,30,Available
+D003,"Dr. Suresh Reddy",Neurologist,15,9,30,Available
+D004,"Dr. Anita Iyer",Infectious Disease,10,14,30,Available
+D005,"Dr. Prakash Verma",Emergency Medicine,8,11,30,Available
+D006,"Dr. Kavita Gupta",General Physician,14,2,35,Available
+D007,"Dr. Arun Krishnan",Cardiologist,22,10,30,Available
+D008,"Dr. Sunita Das",Pulmonologist,9,5,30,Available
+D009,"Dr. Harish Nair",Neurologist,16,9,30,Available
+D010,"Dr. Priya Menon",General Physician,11,2,35,Available
+D011,"Dr. Ramesh Rao",Cardiologist,20,10,30,Available
+D012,"Dr. Deepa Singh",Pulmonologist,13,5,30,Available
+D013,"Dr. Vikram Joshi",Neurologist,19,9,30,Available
+D014,"Dr. Lakshmi Mehta",Infectious Disease,11,14,30,Available
+D015,"Dr. Ananya Patel",Emergency Medicine,14,11,30,Available
+D016,"Dr. Dinesh Kumar",Cardiologist,7,10,30,Available
+D017,"Dr. Sanjay Choudhury",Pulmonologist,10,4,30,Available
+D018,"Dr. Nalini Bose",Neurologist,12,9,30,Available
+D019,"Dr. Pooja Sengupta",Infectious Disease,9,14,30,Available
+D020,"Dr. Naresh Banerjee",Emergency Medicine,17,10,30,Available
+D021,"Dr. Rekha Verma",General Physician,16,2,35,Available
+D022,"Dr. Bhaskar Pillai",Cardiologist,24,10,30,Available
+D023,"Dr. Sarala Reddy",Pulmonologist,18,4,30,Available
+D024,"Dr. Karan Iyer",Neurologist,13,9,30,Available
+D025,"Dr. Simran Sharma",General Physician,20,1,35,Available

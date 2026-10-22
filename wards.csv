@@ -1,0 +1,10 @@
+WardName,WardType,TotalBeds,OccupiedBeds,AvailableBeds
+ICU Central,ICU,35,1,34
+ICU West,ICU,25,0,25
+HDU Alpha,HDU,40,17,23
+HDU Beta,HDU,40,0,40
+Observation Ward 1,Observation,50,42,8
+Observation Ward 2,Observation,50,0,50
+General Ward A,General,60,58,2
+General Ward B,General,60,0,60
+General Ward C,General,70,0,70
